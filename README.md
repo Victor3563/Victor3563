@@ -1,5 +1,5 @@
 ### Hi there 👋
-###I’m currently learning in HSE AME. I want smurt not hurd
+I’m currently learning in HSE AME. I want smurt not hurd
 <!--
 **Victor3563/Victor3563** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
